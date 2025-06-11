@@ -13,10 +13,6 @@ El objetivo de esta aplicación es simular un sistema para que el departamento d
 * **Base de Datos Orientada a Objetos:** Utiliza ObjectDB, lo que simplifica el mapeo de objetos Java directamente a la base de datos sin necesidad de ORMs complejos.
 * **Aplicación de Consola:** Interacción con el usuario mediante comandos en la consola.
 
-![image](https://github.com/user-attachments/assets/306c651e-da22-4475-8382-668b4968ed07)
-
-![image](https://github.com/user-attachments/assets/755452c5-f2d9-4ebc-ba3a-f1392cce8e7e)
-
 ## Tecnologías Utilizadas
 
 * **Java:** Lenguaje de programación principal. 
@@ -66,6 +62,10 @@ El proyecto está organizado en las siguientes clases principales:
 2.  Ejecuta el método `main`. 
 
 La aplicación se ejecutará en la consola y te permitirá interactuar con la gestión de clientes, incluyendo la adición de visitas a cada cliente. 
+
+![image](https://github.com/user-attachments/assets/306c651e-da22-4475-8382-668b4968ed07)
+
+![image](https://github.com/user-attachments/assets/755452c5-f2d9-4ebc-ba3a-f1392cce8e7e)
 
 ## Aprendizajes Clave
 
